@@ -4,7 +4,7 @@
 
 PhishHook evaluates email text using a TF-IDF + logistic regression baseline, OpenAI, and Google Gemini. The hybrid evaluation uses a simple **2-of-3 majority vote** to decide whether a message is phishing (`1`) or legitimate (`0`).
 
-> Portfolio research prototype, not a production email security gateway. LLM responses may be inaccurate; do not rely on this project as your sole phishing defense.
+> Portfolio research prototype, not a production email security.
 
 ## Architecture
 
